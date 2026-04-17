@@ -4,7 +4,7 @@ I'm Eva, a musician, developer, and TTRPG enthusiast. This is a collection of mu
 
 The music here is all electronic of some kind, mostly mangling samples and recordings of acoustic instruments.
 
-### Appendix EVAKNMSFCKTA
+### Appendix N
 - Kota Hoshino's soundtrack for Evergrace by From Software
 - Kensuke Ushio's soundtrack for Devilman Crybaby by Science SARU
 - Akira Yamaoka's soundtrack for Silent Hill 2 by Team Silent
